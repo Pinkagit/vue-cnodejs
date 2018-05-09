@@ -1,6 +1,6 @@
-# demo
+# vue-cnodejs
 
-> 使用Vue2.x + Webpack + axios + Vue-router，并使用 CNode社区提供的API 搭建简易的cnode社区练手项目
+> 使用Vue2 + Webpack + axios + Vue-router，并使用 CNode社区提供的API 搭建简易的cnode社区练手项目
 
 ## Build Setup
 
